@@ -1,4 +1,4 @@
-## Small game made by Liran Meirovich and Ron Towers for our project in game development.
+## Small game made by Liran Meirovich and Ron Towers in **Unity** for our project in game development.
 
 Description:  
 The player enters a maze and needs to find a key to open the door to the next floor while being chased by a minotaur,  
