@@ -2,7 +2,7 @@
 
 Description:  
 The player enters a maze and needs to find a key to open the door to the next floor while being chased by a minotaur,  
-the player is assited by his assistant which can locate the key or be used as a decoy for the minotaur  
+the player is assisted by his NPC-buddy which can locate the key or be used as a decoy for the minotaur  
 if the player reaches the throne-room in the 4th floor he wins.  
 
 Features:  
